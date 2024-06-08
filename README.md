@@ -1,3 +1,6 @@
+懒得写游戏介绍了，简单来说就是在基础的贪吃蛇游戏上大改特改，加了一堆功能，详情请见 SnakeProject/doc/workdiary.md
+if you want to play the game, please download SnakeGame.rar which is provided
+
 License
 --------
 
@@ -22,6 +25,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
-P.S.
-if you want to play the game, please download SnakeGame.rar which is provided
